@@ -4,3 +4,5 @@
 4
 paT
 sest
+sedem
+8
